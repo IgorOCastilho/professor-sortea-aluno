@@ -1,4 +1,3 @@
-# professor-sortea-aluno
 # 🎲 Sorteio de Aluno
 
 Programa simples em Python que sorteia um dos quatro alunos digitados para apagar o quadro.
