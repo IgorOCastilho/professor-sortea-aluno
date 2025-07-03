@@ -1,2 +1,16 @@
 # professor-sortea-aluno
-Aqui o professor sortear um dos seus quatros alunos para apagar o quadro. O programa ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+# 🎲 Sorteio de Aluno
+
+Programa simples em Python que sorteia um dos quatro alunos digitados para apagar o quadro.
+
+## 📋 Funcionalidades
+- Lê os nomes de 4 alunos
+- Usa sorteio aleatório com `random.choice()`
+- Exibe quem foi escolhido
+
+## 💻 Como executar
+1. Instale o Python 3
+2. Rode o programa no terminal:
+
+```bash
+python sorteio.py
